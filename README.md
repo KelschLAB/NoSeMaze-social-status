@@ -1,4 +1,4 @@
-"Individual differences drive social hierarchies in mouse societies" (Reinwald et al., 2025)
+**Individual differences drive social hierarchies in mouse societies (Reinwald et al., 2025)**
 
 OVERVIEW
 
@@ -28,7 +28,7 @@ myRootPath <- "C:/your/local/path/NoSeMaze_Experiment"
 Place your data in the data/ folder (once available).
 Run the scripts from within MATLAB or R.
 
-License
+LICENSE
 
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
