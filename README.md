@@ -21,9 +21,9 @@ USAGE
 Clone the repository:<br>
 git clone https://github.com/USERNAME/NoSeMaze_Experiment.git<br>
 Set the root path inside the scripts to match your local setup:<br>
-myRootPath = 'C:/your/local/path/NoSeMaze_Experiment';<br>
+myRootPath = 'C:/your/local/path/NoSeMaze_Experiment_Social_Status';<br>
 or in R:<br>
-myRootPath <- "C:/your/local/path/NoSeMaze_Experiment"<br>
+myRootPath <- "C:/your/local/path/NoSeMaze_Experiment_Social_Status"<br>
 Place your data in the data/ folder (once available).<br>
 Run the scripts from within MATLAB or R.<br>
 
