@@ -11,7 +11,7 @@ REPOSITORY STRUCTURE
 
 NoSeMaze_Experiment_Social_Status/<br>
 ├── analysis/            # analysis scripts (MATLAB and R) <br>
-├── config/              # basic config files (meta information on cohorts) <br>      
+├── config/              # basic config files (meta information on cohorts) <br>
 ├── data/                # (empty) raw and processed data will be placed here <br>
 ├── results/             # (empty) figures, tables, and output files will be stored here <br>
 └── src/                 # source scripts (MATLAB and R) <br>
