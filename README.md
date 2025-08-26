@@ -11,10 +11,15 @@ The repository preserves the folder structure so that scripts can be directly re
 REPOSITORY STRUCTURE
 
 NoSeMaze_Experiment/
+
 ├── analysis/            # analysis scripts (MATLAB and R)
+
 ├── config/              # basic config files (meta information on cohorts)       
+
 ├── data/                # (empty) raw and processed data will be placed here
+
 ├── results/             # (empty) figures, tables, and output files will be stored here
+
 └── src/                 # source scripts (MATLAB and R)
 
 USAGE
@@ -45,20 +50,32 @@ Full license text available at:
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 
-Citation
+CITATION
 
 If you use these scripts in your work, please cite:
+
 Title
+
 Individual differences drive social hierarchies in mouse societies 
+
 Authors 
-Jonathan R. Reinwald1,2,3,#, Sarah Ghanayem1,2,#, David Wolf1,2, Julia Lebedeva1,2, Philipp Lebhardt4, Oliver Gölz4, Corentin Nelias1,2, Wolfgang Kelsch1,2,*
+
+Jonathan R. Reinwald 1,2,3,$, Sarah Ghanayem 1,2,$, David Wolf 1,2, Julia Lebedeva 1,2, Philipp Lebhardt 4, Oliver Gölz 4, Corentin Nelias 1,2, Wolfgang Kelsch 1,2,*
+
 Affiliations
+
 1 Dept. of Psychiatry and Psychotherapy, University Medical Center Mainz, Johannes-Gutenberg University, Untere Zahlbacher Strasse 8, 55131 Mainz, Germany
+
 2 Dept. of Psychiatry and Psychotherapy, Central Institute of Mental Health, Medical Faculty Mannheim, Heidelberg University, Square J5, 68159 Mannheim, Germany
+
 3 Dept. of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, Heidelberg University, Square J5, 68159 Mannheim, Germany
+
 4 Dept. of Clinical Health Technologies, Institute for Manufacturing Engineering and Automation, Fraunhofer Society, Theodor-Kutzer-Ufer 1-3, 68167 Mannheim, Germany
-* corresponding author: Wolfgang Kelsch, wokelsch@uni-mainz.de 
-# these authors shared last authorship 
+
+* corresponding author: Wolfgang Kelsch, wokelsch@uni-mainz.de
+
+$ these authors shared first authorship 
+
 (DOI will be added after publication.)
 
 Notes
