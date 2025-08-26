@@ -1,4 +1,4 @@
-**Individual differences drive social hierarchies in mouse societies (Reinwald et al., 2025)**
+**INDIVIDUAL DIFFERENCES DRIVE SOCIAL HIERARCHIES IN MOUSE SOCIETIES (REINWALD, GHANAYEM, ET AL., 2025)**
 
 OVERVIEW
 
