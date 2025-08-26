@@ -10,11 +10,9 @@ The repository preserves the folder structure so that scripts can be directly re
 
 REPOSITORY STRUCTURE
 
-NoSeMaze_Experiment/
-
-├── analysis/            # analysis scripts (MATLAB and R)
-
-├── config/              # basic config files (meta information on cohorts)       
+NoSeMaze_Experiment/<br>
+├── analysis/            # analysis scripts (MATLAB and R)<br>
+├── config/              # basic config files (meta information on cohorts)<br>      
 
 ├── data/                # (empty) raw and processed data will be placed here
 
