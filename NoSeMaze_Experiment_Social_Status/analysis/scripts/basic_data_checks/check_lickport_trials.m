@@ -4,7 +4,7 @@
 clear all
 
 % Specify the main working directory where all the experiment data and configurations are located
-main_dir = 'myRootPath/NoSeMaze_Experiment'; % --> NOTE: Replace with own root directory
+main_dir = 'myRootPath/NoSeMaze_Experiment_Social_Status'; % --> NOTE: Replace with own root directory
 
 % Add necessary paths for the source code. 'genpath' ensures subdirectories under 'src/tube/preprocessing' are included
 addpath(genpath(fullfile(main_dir,'src','lickport','basic_data_checks')));

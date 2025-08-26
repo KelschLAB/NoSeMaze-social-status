@@ -35,7 +35,7 @@ max_duration <- 15 # Threshold for durations
 # 🗂 2. Load Preprocessed Data (Merged Tube Competition Dataset)
 # -------------------------------------------------------------
 # Define base directory for cohort sequence files
-base_dir <- "myRootPath/NoSeMaze_Experiment/data/processed"  # --> CHANGE HERE TO YOU OWN ROOT PATH FOLDER 
+base_dir <- "myRootPath/NoSeMaze_Experiment_Social_Status/data/processed"  # --> CHANGE HERE TO YOU OWN ROOT PATH FOLDER 
 # Define data directory
 data_dir <- file.path(base_dir, "cross_cohort_files", "tube", "merged_elo_sequence_data")
 # Identify the correct file (Koptimal/K100)

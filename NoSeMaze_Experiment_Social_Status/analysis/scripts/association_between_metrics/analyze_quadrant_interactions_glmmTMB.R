@@ -14,7 +14,7 @@ library(emmeans)     # For estimated marginal means
 library(ggplot2)     # For plotting
 
 # 1. Load and prepare the data
-data <- read_csv("myRootPath/NoSeMaze_Experiment/results/figures/cross_cohort/associations_between_metrics/tube/match_matrices/interaction_data.csv")
+data <- read_csv("myRootPath/NoSeMaze_Experiment_Social_Status/results/figures/cross_cohort/associations_between_metrics/tube/match_matrices/interaction_data.csv")
 # --> CHANGE TO YOUR ROOT PATH
 
 # Convert relevant variables to factors

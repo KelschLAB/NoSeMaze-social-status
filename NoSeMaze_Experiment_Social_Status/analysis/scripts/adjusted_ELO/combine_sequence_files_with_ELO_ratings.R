@@ -8,7 +8,7 @@
 # for each tube competition across all cohorts. # The final dataset is 
 # structured for LME modeling, assessing win/loss outcomes # based on entry time 
 # and ELO rating differences.
-# !!! Be sure to run "myRootPath/NoSeMaze_Experiment/analysis/scripts/cross_cohort_summary/main_calculate_tube_metrics_R.R 
+# !!! Be sure to run "myRootPath/NoSeMaze_Experiment_Social_Status/analysis/scripts/cross_cohort_summary/main_calculate_tube_metrics_R.R 
 # before to calculate the ELO ratings and save the cohort_characteristic-file before !!!
 
 # Steps:
@@ -29,7 +29,7 @@ library(readr)
 library(stringr)
 
 # Define base directory for cohort sequence files
-base_dir <- "myRootPath/NoSeMaze_Experiment/data/processed" # --> CHANGE HERE TO YOU OWN ROOT PATH FOLDER 
+base_dir <- "myRootPath/NoSeMaze_Experiment_Social_Status/data/processed" # --> CHANGE HERE TO YOU OWN ROOT PATH FOLDER 
 
 # Define path to cohort characteristics file
 cohort_characteristics_file <- file.path(base_dir, "cross_cohort_files", "tube", "CohortCharacteristics_TubeCompetitions_D1_End_Koptimal.Rdata")

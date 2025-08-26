@@ -9,7 +9,7 @@
 clear all; clc; close all;
 
 % Set pathes
-main_dir = 'myRootPath/NoSeMaze_Experiment'; % --> NOTE: Replace with own root directory
+main_dir = 'myRootPath/NoSeMaze_Experiment_Social_Status'; % --> NOTE: Replace with own root directory
 output_dir = fullfile(main_dir,'results','figures','cross_cohort','associations_group_level');
 processed_dir = fullfile(main_dir, 'data', 'processed');
 if ~isfolder(output_dir)
@@ -105,9 +105,9 @@ CohortCharacteristics.sum_ChasingEvents(isCohort) = sum_ChasingEvents(idxMap(isC
 CohortCharacteristics.FrChas_TopRankedAnimal(isCohort) = FrChas_TopRankedAnimal(idxMap(isCohort));
 
 %% Load and integrate the quadrant quantification
-% from: C:\Users\jonathan.reinwald\OneDrive\Dokumente\Arbeit\ZI\Labor\NoSeMaze_Experiment\analysis\scripts\association_between_metrics\analyse_match_matrices.m
-load('C:\Users\jonathan.reinwald\OneDrive\Dokumente\Arbeit\ZI\Labor\NoSeMaze_Experiment\results\figures\cross_cohort\associations_between_metrics\tube\match_matrices\Quadrant_Quantification_ChasingSortedByComp_D1_21.mat')
-load('C:\Users\jonathan.reinwald\OneDrive\Dokumente\Arbeit\ZI\Labor\NoSeMaze_Experiment\results\figures\cross_cohort\associations_between_metrics\tube\match_matrices\ChasingDirection_D1_21.mat')
+% from: myRootPath\NoSeMaze_Experiment_Socia_Status\analysis\scripts\association_between_metrics\analyse_match_matrices.m
+load('myRootPath\NoSeMaze_Experiment_Socia_Status\results\figures\cross_cohort\associations_between_metrics\tube\match_matrices\Quadrant_Quantification_ChasingSortedByComp_D1_21.mat')
+load('myRootPath\NoSeMaze_Experiment_Socia_Status\results\figures\cross_cohort\associations_between_metrics\tube\match_matrices\ChasingDirection_D1_21.mat')
 CohortCharacteristics.ChasingbyComp_TopLeftQuadrant = quadrant_quantification.chasing_by_comp_TopLeft;
 CohortCharacteristics.ChasingbyComp_TopRightQuadrant = quadrant_quantification.chasing_by_comp_TopRight;
 CohortCharacteristics.ChasingbyComp_BottomLeftQuadrant = quadrant_quantification.chasing_by_comp_BottomLeft;

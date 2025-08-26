@@ -10,7 +10,7 @@
 clear; clc;
 
 %% Set Directories and Paths
-main_dir = 'myRootPath/NoSeMaze_Experiment'; % --> NOTE: Replace with own root directory
+main_dir = 'myRootPath/NoSeMaze_Experiment_Social_Status'; % --> NOTE: Replace with own root directory
 data_dir = fullfile(main_dir, 'data');
 addpath(genpath(fullfile(main_dir, 'src', 'tube', 'cross_cohort_summary')));
 addpath(genpath(fullfile(main_dir, 'src', 'tube', 'preprocessing')));

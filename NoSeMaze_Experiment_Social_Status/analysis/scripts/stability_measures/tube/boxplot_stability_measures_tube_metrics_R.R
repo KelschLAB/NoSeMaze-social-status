@@ -30,7 +30,7 @@ datasets <- list(
 )
 day_ranges <- c("D1_End", "D1_14", "D1_21")
 data_types <- c("TubeCompetitions", "TubeChasings")
-script_name <- "Script: C: ~/NoSeMaze_Experiment/analysis/scripts/stability_measures/tube/boxplot_stability_measures_tube_metrics_R.R"
+script_name <- "Script: C: ~/NoSeMaze_Experiment_Social_Status/analysis/scripts/stability_measures/tube/boxplot_stability_measures_tube_metrics_R.R"
 K <- 100 #'optimal'
 
 # Load cohort configuration

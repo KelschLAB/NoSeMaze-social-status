@@ -9,7 +9,7 @@ clear; clc; close all;
 
 %% Set Directories
 % Define main and subdirectories for data and results
-main_dir = 'myRootPath/NoSeMaze_Experiment'; % --> NOTE: Replace with own root directory
+main_dir = 'myRootPath/NoSeMaze_Experiment_Social_Status'; % --> NOTE: Replace with own root directory
 processed_dir = fullfile(main_dir, 'data', 'processed');
 summary_file = fullfile(processed_dir, 'cross_cohort_files', 'summary_data.mat');
 

@@ -6,7 +6,7 @@
 clear; clc; close all;
 
 %% Set Directories
-main_dir = 'myRootPath/NoSeMaze_Experiment'; % --> NOTE: Replace with own root directory
+main_dir = 'myRootPath/NoSeMaze_Experiment_Social_Status'; % --> NOTE: Replace with own root directory
 processed_dir = fullfile(main_dir, 'data', 'processed');
 results_dir = fullfile(main_dir, 'results', 'figures', 'cross_cohort', 'lick_performance');
 if ~isfolder(results_dir)

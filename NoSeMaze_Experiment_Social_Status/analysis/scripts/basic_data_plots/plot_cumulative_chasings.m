@@ -26,7 +26,7 @@ range_name = 'D1_21';
 % 📂 LOAD DATA / DEFINE OUTPUT DIRECTORY
 % ========================================================================
 % Load NoSeMaze dataset (ensure 'summary_data' is available)
-main_dir = 'myRootPath/NoSeMaze_Experiment'; % --> NOTE: Replace with own root directory
+main_dir = 'myRootPath/NoSeMaze_Experiment_Social_Status'; % --> NOTE: Replace with own root directory
 summary_file_dir = fullfile(main_dir, 'data', 'processed', 'cross_cohort_files');
 load(fullfile(summary_file_dir, 'summary_data.mat'));
 

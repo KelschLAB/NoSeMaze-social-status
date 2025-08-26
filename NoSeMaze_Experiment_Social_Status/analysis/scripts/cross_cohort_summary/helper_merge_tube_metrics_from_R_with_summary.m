@@ -6,7 +6,7 @@ clear; clc;
 k = 'Koptimal';
 
 % Define directories
-mainDir = 'myRootPath/NoSeMaze_Experiment'; % --> NOTE: Replace with own root directory
+mainDir = 'myRootPath/NoSeMaze_Experiment_Social_Status'; % --> NOTE: Replace with own root directory
 csvDataDir = fullfile(mainDir, '/data/interim/cross_cohort_files/tube');
 summaryDataDir = fullfile(mainDir, '/data/processed/cross_cohort_files/');
 

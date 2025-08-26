@@ -6,7 +6,7 @@
 clear all; clc; close all;
 
 % Set pathes
-main_dir = 'myRootPath/NoSeMaze_Experiment'; % --> NOTE: Replace with own root directory
+main_dir = 'myRootPath/NoSeMaze_Experiment_Social_Status'; % --> NOTE: Replace with own root directory
 output_dir = fullfile(main_dir,'results','figures','cross_cohort','clustering_lickport_data');
 if ~isfolder(output_dir)
     mkdir(output_dir);

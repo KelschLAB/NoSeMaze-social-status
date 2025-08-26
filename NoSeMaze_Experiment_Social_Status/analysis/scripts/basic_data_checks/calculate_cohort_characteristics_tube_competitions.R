@@ -31,8 +31,8 @@ end_day <- 14
 K <- 100
 
 # Specify the basic directory, of which the subfodlers contain the CSV files
-base_dir <- "/myRootPath/NoSeMaze_Experiment/data/processed/" # --> CHANGE "myRootPath" MANUALLY TO YOUR ROOT DIRECTORY
-results_dir <- "/myRootPath/NoSeMaze_Experiment/results/" # --> CHANGE "myRootPath" MANUALLY TO YOUR ROOT DIRECTORY
+base_dir <- "/myRootPath/NoSeMaze_Experiment_Social_Status/data/processed/" # --> CHANGE "myRootPath" MANUALLY TO YOUR ROOT DIRECTORY
+results_dir <- "/myRootPath/NoSeMaze_Experiment_Social_Status/results/" # --> CHANGE "myRootPath" MANUALLY TO YOUR ROOT DIRECTORY
 
 # Use list.files to recursively search for files matching the pattern
 filelist <- list.files(

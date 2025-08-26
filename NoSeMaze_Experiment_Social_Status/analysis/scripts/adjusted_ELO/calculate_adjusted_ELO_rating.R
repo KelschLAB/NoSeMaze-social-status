@@ -31,7 +31,7 @@ library(aniDom)
 library(EloRating)
 
 # ✅ Define the base directory for data
-main_dir <- "myRootPath/NoSeMaze_Experiment/" # --> CHANGE HERE TO YOU OWN ROOT PATH FOLDER 
+main_dir <- "myRootPath/NoSeMaze_Experiment_Social_Status/" # --> CHANGE HERE TO YOU OWN ROOT PATH FOLDER 
 base_dir <- file.path(main_dir,"data", "processed")
 
 # ✅ Define path to cohort characteristics file (contains optimal K values)

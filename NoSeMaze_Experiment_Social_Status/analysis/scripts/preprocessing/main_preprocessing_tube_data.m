@@ -4,7 +4,7 @@
 clear all
 
 % Specify the main working directory where all the experiment data and configurations are located
-main_dir = 'myRootPath/NoSeMaze_Experiment'; % --> NOTE: Replace with own root directory
+main_dir = 'myRootPath/NoSeMaze_Experiment_Social_Status'; % --> NOTE: Replace with own root directory
 
 % Add necessary paths for the source code. 'genpath' ensures subdirectories under 'src/tube/preprocessing' are included
 addpath(genpath(fullfile(main_dir,'src','tube','preprocessing')));
@@ -31,7 +31,7 @@ for i = 9:height(cohortsTbl)
     % Info: This step includes an option for deletion or merging of
     % specific animals based on their IDs (e.g., when IDs switched during
     % the experiment). The file is in csv format and should be located in 
-    % each animal's raw data folder (e.g., /home/jonathan.reinwald/NoSeMaze_Experiment/data/raw/cohort17/tube/ID_replacement_cohort17.csv)
+    % each animal's raw data folder (e.g., /home/jonathan.reinwald/NoSeMaze_Experiment_Social_Status/data/raw/cohort17/tube/ID_replacement_cohort17.csv)
     % containing three columns: IDs_to_delete, IDs_to_replace, IDs_for_replacement 
     if 1==0
         % Define paths for raw tube data and the location to save processed LOG files

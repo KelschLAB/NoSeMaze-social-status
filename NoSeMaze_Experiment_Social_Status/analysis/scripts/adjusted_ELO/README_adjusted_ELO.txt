@@ -1,7 +1,7 @@
 README – Adjusting ELO Ratings for entry time difference in tube competitions
 -------------------------------------------------------------------------------------------------------
 This directory contains scripts for merging, LME-modeling, and adjusting ELO ratings from tube competition data in the NoSeMaze experiment.
-SOPs are saved in: C:\Users\jonathan.reinwald\OneDrive\Dokumente\Arbeit\ZI\Labor\NoSeMaze_Experiment\docs\SOPs\adjusted_ELO
+SOPs are saved in: myRootPath\NoSeMaze_Experiment_Socia_Status\docs\SOPs\adjusted_ELO
 -------------------------------------------------------------------------------------------------------
 A. 
 Script Overview & Purpose
