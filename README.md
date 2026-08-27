@@ -1,4 +1,4 @@
-**INDIVIDUAL DIFFERENCES DRIVE SOCIAL HIERARCHIES IN MOUSE SOCIETIES (REINWALD, GHANAYEM, ET AL., 2025)**
+**INDIVIDUAL DIFFERENCES DRIVE SOCIAL HIERARCHIES IN MALE MOUSE SOCIETIES (REINWALD, GHANAYEM, ET AL., 2025)**
 
 OVERVIEW
 
@@ -48,7 +48,7 @@ CITATION
 
 If you use these scripts in your work, please cite:<br>
 Title<br>
-Individual differences drive social hierarchies in mouse societies <br>
+Individual differences drive social hierarchies in male mouse societies <br>
 Authors <br>
 Jonathan R. Reinwald 1,2,3,$, Sarah Ghanayem 1,2,$, David Wolf 1,2, Julia Lebedeva 1,2, Philipp Lebhardt 4, Oliver Gölz 4, Corentin Nelias 1,2, Wolfgang Kelsch 1,2,%<br>
 Affiliations<br>
@@ -58,7 +58,7 @@ Affiliations<br>
 4 Dept. of Clinical Health Technologies, Institute for Manufacturing Engineering and Automation, Fraunhofer Society, Theodor-Kutzer-Ufer 1-3, 68167 Mannheim, Germany<br>
 % corresponding author: Wolfgang Kelsch, wokelsch@uni-mainz.de<br>
 $ these authors shared first authorship <br>
-(DOI will be added after publication.)
+CITE AS: eLife2026;15:RP109354 DOI: https://doi.org/10.7554/eLife.109354.3
 
 NOTES
 
