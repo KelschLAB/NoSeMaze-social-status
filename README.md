@@ -1,8 +1,8 @@
-**INDIVIDUAL DIFFERENCES DRIVE SOCIAL HIERARCHIES IN MALE MOUSE SOCIETIES (REINWALD, GHANAYEM, ET AL., 2025)**
+**INDIVIDUAL DIFFERENCES DRIVE SOCIAL HIERARCHIES IN MALE MOUSE SOCIETIES (REINWALD, GHANAYEM, ET AL., 2026)**
 
 OVERVIEW
 
-This repository contains the scripts used for the manuscript "Individual differences drive social hierarchies in mouse societies" (Reinwald et al., 2025).
+This repository contains the scripts used for the manuscript "Individual differences drive social hierarchies in male mouse societies" (Reinwald et al., 2026).
 It includes MATLAB and R code for preprocessing, analysis, and visualization.<br>
 Note: Data (raw and processed) and results are not included (to be shared after publication).
 The repository preserves the folder structure so that scripts can be directly reused when data become available.
